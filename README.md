@@ -1,4 +1,4 @@
 # hello-world
-My first Git
 
+My second Git
 I like the Kinneret. And I like to write codes.
